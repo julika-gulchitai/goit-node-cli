@@ -1,3 +1,3 @@
 # goit-node-cli
 
-hw1
+Home work1 for Node.js module1
